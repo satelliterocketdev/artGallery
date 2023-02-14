@@ -12,6 +12,7 @@ contract ArtGallery {
 
     address lastaddress;
     string lastUri;
+    string lastUri1;
     address public feeAccount = address(0x0000000000000000000000);
     address public _owner = address(0x0000000000000000000000);
 
